@@ -1,3 +1,5 @@
+## Part 1
+
 Using Gemma model via Google's API
 
 References used: https://huggingface.co/blog/proflead/gemma-3-tutorial#how-to-use-gemma-3-via-googles-api
